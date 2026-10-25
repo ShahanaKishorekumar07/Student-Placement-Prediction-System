@@ -84,7 +84,7 @@ python train_model.py
 Predictions are estimates based on the available dataset and model performance. They do not guarantee actual placement outcomes and should not be used as the sole basis for placement decisions.
 
 ## 👨‍💻 Author
-Your Name
+Shahana Kishorekumar 
 
 ## 📄 License
 This project is intended for educational and academic purposes.
